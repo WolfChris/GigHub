@@ -232,6 +232,10 @@
     <Compile Include="Migrations\201711161348417_addedFKPropstoGig.Designer.cs">
       <DependentUpon>201711161348417_addedFKPropstoGig.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201711171303475_addnametoappuser.cs" />
+    <Compile Include="Migrations\201711171303475_addnametoappuser.Designer.cs">
+      <DependentUpon>201711171303475_addnametoappuser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -347,6 +351,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201711161348417_addedFKPropstoGig.resx">
       <DependentUpon>201711161348417_addedFKPropstoGig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711171303475_addnametoappuser.resx">
+      <DependentUpon>201711171303475_addnametoappuser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
