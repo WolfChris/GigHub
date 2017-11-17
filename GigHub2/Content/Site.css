@@ -92,9 +92,9 @@ h6,
 }
 
 .btn {
-    padding: 10px 20px;
-    font-size: 17px;
-    border-radius: 20px;
+    /*padding: 10px 20px;
+    font-size: 17px;*/
+    border-radius: 9px;
 }
 
 /* Page specific styles */
